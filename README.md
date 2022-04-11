@@ -1,7 +1,7 @@
 # web-dev-condidature
 This is a repository for a simple web app for my condidature for a web developper job offer.
 
-I used php, js, jquery (datatables), css, materialize css.
+I used php, js, jquery (datatables), css, materialize css, html.
 I used a json file as a local database, it would be easier if I used a sql database, but it was a good refresher for handling json files in php.
 
 This application aims to produce a component to perform the following functions:
